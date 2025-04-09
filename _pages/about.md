@@ -30,5 +30,3 @@ latest_posts:
 I am a dedicated Molecular Biologist using bioinformatics for cancer research. With hands-on experience in RNA-seq methodologies, single-cell sequencing analysis, and a strong background in cancer stem cells and genomics, I analyze and interpreting large-scale genomic datasets. Proficient in R and Bash scripting, I am passionate about extracting meaningful insights from transcriptomic data, especially in the realm of childhood leukemia. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-
