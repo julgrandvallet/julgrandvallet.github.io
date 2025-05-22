@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Passionate about decoding cancer through data
+
 
 profile:
   align: right
