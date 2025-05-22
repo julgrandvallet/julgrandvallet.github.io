@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: SACNAS_Photoshoot_Grandvallet-Contreras_J-4.jpg
+  image: assets/img/SACNAS_Photoshoot_Grandvallet-Contreras_J-4.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Division of Hematology, Oncology and Bone Marrow Transplant</p>
