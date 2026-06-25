@@ -1,9 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Venue abbreviation -> {url, color}. Used when a bib entry sets `abbr:`.
+# Add your venues as needed, e.g.:
+#   "Blood":
+#     url: https://ashpublications.org/blood
+#     color: "#c8102e"
