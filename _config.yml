@@ -255,8 +255,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Grandvallet-Contreras, Contreras, Grandvallet]
-  first_name: [Julian, Julian Grandvallet, J.]
+  last_name: [Grandvallet-Contreras, Grandvallet Contreras, Contreras, Grandvallet]
+  first_name: [Julian, Julian Grandvallet, Julián Grandvallet, J.]
 
   style: apa
   locale: en
