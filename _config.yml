@@ -2,19 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Julian Grandvallet-Contreras
 first_name: Julian
 middle_name:
 last_name: Grandvallet-Contreras
 contact_note: >
   The best way to contact me is through email or LinkedIn
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >
+  Bioinformatics analyst in cancer genomics and epigenomics at the University of Colorado
+  Anschutz Medical Campus. Rare variant analysis, RNA-seq, ATAC-seq, CUT&RUN, and
+  reproducible Nextflow pipelines for pediatric leukemia and neuro-oncology research.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: bioinformatics, cancer genomics, epigenomics, RNA-seq, ATAC-seq, CUT&RUN, variant analysis, Nextflow, computational biology, pediatric leukemia
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

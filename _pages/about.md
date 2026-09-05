@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate about decoding cancer through data
+subtitle: Cancer genomics, epigenomics, and pipelines that can be checked.
 
 profile:
   align: right
@@ -27,17 +27,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a molecular biologist turned computational biologist studying cancer through
-high-throughput sequencing. I design and run reproducible pipelines for bulk RNA-seq,
-single-cell RNA-seq, CUT&RUN, and ATAC-seq, with a focus on childhood leukemia and
-cancer stem cells at the University of Colorado Anschutz Medical Campus.
+I am a bioinformatics analyst at the University of Colorado Anschutz Medical Campus,
+embedded in a multi-PI shared resource in the Department of Pediatrics. My work runs
+across germline and somatic variant analysis, bulk and single-cell RNA-seq, ATAC-seq
+and CUT&RUN, applied mostly to childhood leukemia, neuro-oncology and cancer evolution.
 
-I work primarily in R, Quarto, Python, and Bash, building on nf-core/Nextflow
-workflows and the Bioconductor and tidyverse ecosystems to turn large genomic
-datasets into interpretable biology. My current work spans differential expression
-and pathway analysis (DESeq2, edgeR, GSEA), differential binding (DiffBind), and
-single-cell integration (Seurat, Harmony).
+Most of what I do is building analysis that other people can rely on and reproduce.
+That means containerized Nextflow pipelines on HPC for six laboratories, written records
+of the decisions behind duplicate handling and normalization and filtering, and where it
+matters, a second independent implementation to check the first one. A recent benchmark
+found that the standard normalization method reports a real fourfold loss of signal as a
+significant gain, which is the kind of result you only find if you go looking.
 
-<!--
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
--->
+I work in R and Python, on nf-core and Nextflow, in the Bioconductor and tidyverse
+ecosystems. I also teach: an asynchronous R course for researchers, four mentored trainees,
+and an invited faculty workshop at AACR on using large language models for scientific
+programming.
+
+Co-author on work in the *New England Journal of Medicine*, *Leukemia*, *EBioMedicine*,
+*Brain Pathology* and *Blood*. Originally from Mexico City, currently in Colorado, and
+happy to hear from people working on genomics anywhere.
